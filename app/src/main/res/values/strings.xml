@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">navigation_drawer_open</string>
+    <string name="drawer_close">navigation_drawer_close</string>
+    <string name="create_an_account"> <u>Create an account</u>.</string>
+    <string name="already_account_login"> <u>Login</u>.</string>
+</resources>
