@@ -44,6 +44,8 @@ import de.hdodenhof.circleimageview.CircleImageView;
 
 public class MainActivity extends AppCompatActivity {
 
+    //testing comment  for github thankYou ignore this comment
+
     SharedPreferenceClass sharedPreferenceClass;
     private Toolbar toolbar;
     private DrawerLayout drawerLayout;
